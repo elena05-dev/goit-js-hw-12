@@ -129,7 +129,7 @@ button:active {
   text-align: center;
 }
 
-.loader {
+.loader-circle {
   display: flex;
   justify-content: center;
   align-items: center;
